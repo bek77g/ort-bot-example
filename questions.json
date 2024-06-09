@@ -1,0 +1,66 @@
+{
+	"Математика": [
+		{
+			"question": "Какое решение квадратного уравнения x^2 + 5x + 6 = 0?",
+			"options": [
+				{ "text": "x = -1, x = -6", "correct": false },
+				{ "text": "x = -2, x = -3", "correct": true },
+				{ "text": "x = 1, x = -6", "correct": false },
+				{ "text": "x = 2, x = 3", "correct": false }
+			],
+			"number": 1
+		},
+		{
+			"question": "Как найти производную функции f(x) = x^3 + 2x^2 - 1?",
+			"options": [
+				{ "text": "f'(x) = 3x^2 + 4x", "correct": true },
+				{ "text": "f'(x) = x^2 + 2x", "correct": false },
+				{ "text": "f'(x) = 3x^2 - 4x", "correct": false },
+				{ "text": "f'(x) = x^2 - 2x", "correct": false }
+			],
+			"number": 2
+		},
+		{
+			"question": "Как найти площадь прямоугольника со сторонами 5 см и 7 см?",
+			"options": [
+				{ "text": "S = 12 cm^2", "correct": false },
+				{ "text": "S = 35 cm^2", "correct": true },
+				{ "text": "S = 30 cm^2", "correct": false },
+				{ "text": "S = 42 cm^2", "correct": false }
+			],
+			"number": 3
+		}
+	],
+	"Физика": [
+		{
+			"question": "Какой закон описывает движение свободно падающего тела?",
+			"options": [
+				{ "text": "Первый закон Ньютона", "correct": false },
+				{ "text": "Второй закон Ньютона", "correct": true },
+				{ "text": "Третий закон Ньютона", "correct": false },
+				{ "text": "Закон всемирного тяготения", "correct": false }
+			],
+			"number": 1
+		},
+		{
+			"question": "Какова формула закона Ома?",
+			"options": [
+				{ "text": "U = IR", "correct": true },
+				{ "text": "U = RI", "correct": false },
+				{ "text": "I = UR", "correct": false },
+				{ "text": "R = UI", "correct": false }
+			],
+			"number": 2
+		},
+		{
+			"question": "Как вычислить кинетическую энергию движущегося тела?",
+			"options": [
+				{ "text": "E = mv^2", "correct": false },
+				{ "text": "E = (1/2)mv", "correct": false },
+				{ "text": "E = (1/2)mv^2", "correct": true },
+				{ "text": "E = m^2v", "correct": false }
+			],
+			"number": 3
+		}
+	]
+}
